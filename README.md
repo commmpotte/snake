@@ -22,7 +22,7 @@ To run the Snake Game locally on your machine, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 
-Alternatively, you can [play the live demo](#).
+Alternatively, you can [play the live demo](https://bejewelled-zabaione-e242ec.netlify.app).
 
 ## Usage
 
